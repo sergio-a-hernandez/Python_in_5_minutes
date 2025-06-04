@@ -22,6 +22,16 @@ You can run them:
 - Locally using [Jupyter Lab](https://jupyter.org/install) or [Anaconda](https://www.anaconda.com/products/distribution)
 - Online using [Google Colab](https://colab.research.google.com/)
 
+## 📘 Notebooks
+
+| Session | Topic              | Open in Colab |
+|---------|--------------------|----------------|
+| 01      | Algorithms    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_01_what_is_an_algorithm.ipynb) |
+| 02      | Flowcharts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_02_flowcharts.ipynb) |
+| 03      | Pseudocode         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_03_introduction_to_pseudocode.ipynb) |
+
+---
+
 
 ## 🧰 Requirements
 
