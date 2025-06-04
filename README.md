@@ -23,19 +23,6 @@ You can run them:
 - Online using [Google Colab](https://colab.research.google.com/)
 
 
-## 📘 Sessions Overview
-
-| Session | Title                                | Colab Link |
-|---------|--------------------------------------|------------|
-| 01      | [What Is an Algorithm?](notebooks/session_01_what_is_an_algorithm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Python_in_5_minutes/blob/main/notebooks/session_01_what_is_an_algorithm.ipynb) |
-| 02      | [Flowcharts and Logical Thinking](notebooks/session_02_flowcharts.ipynb) | Coming soon |
-| 03      | Your First Python Program            | Coming soon |
-| 04      | Variables and Data Types             | Coming soon |
-| 05      | Input and Output                     | Coming soon |
-
-*More sessions will be added regularly.*
-
-
 ## 🧰 Requirements
 
 To run the notebooks locally:
