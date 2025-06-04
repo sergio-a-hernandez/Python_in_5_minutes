@@ -47,14 +47,14 @@ Or use [Google Colab](https://colab.research.google.com/) — no setup needed!
 
 ## 🧠 Who Is This For?
 
-* Technicians and engineers with no coding background
-* Students in technical roles who want to learn automation or scripting
+* Professionals with no coding background
+* Students who want to learn automation or scripting
 * Anyone who enjoys learning in quick, focused chunks
 
 
 ## ✍️ Contributing
 
-This project is currently under development and curated by **Sergio**, a passionate engineer and educator from Ciudad Juárez, Mexico 🇲🇽. If you'd like to contribute ideas, improvements, or examples — feel free to fork and submit a pull request.
+This project is currently under development and curated by **Sergio**, a passionate engineer from Ciudad Juárez, Mexico 🇲🇽. If you'd like to contribute ideas, improvements, or examples — feel free to fork and submit a pull request.
 
 
 ## 📩 Contact
