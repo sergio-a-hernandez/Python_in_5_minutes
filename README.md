@@ -29,7 +29,7 @@ You can run them:
 | 01      | Algorithms    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_01_what_is_an_algorithm.ipynb) |
 | 02      | Flowcharts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_02_flowcharts.ipynb) |
 | 03      | Pseudocode         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_03_introduction_to_pseudocode.ipynb) |
-| 04      | Code design         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_04 _designing_before_coding.ipynb) |
+| 04      | Code design         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_04_designing_before_coding.ipynb) |
 | 05      | IPO model         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_05_information_flow_and_data_transformation.ipynb) |
 ---
 
