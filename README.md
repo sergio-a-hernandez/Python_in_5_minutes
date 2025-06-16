@@ -32,8 +32,8 @@ You can run them:
 | 04      | Code design         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_04_designing_before_coding.ipynb) |
 | 05      | IPO model         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_05_information_flow_and_data_transformation.ipynb) |
 | 06      | Intro to Python         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_06_intro_to_python.ipynb) |
+| 07      | First Python program         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_07_first_python_program.ipynb) |
 ---
-
 
 ## 🧰 Requirements
 
