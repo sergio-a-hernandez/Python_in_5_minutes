@@ -35,7 +35,7 @@ You can run them:
 | 07      | First Python program         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_07_first_python_program.ipynb) |
 | 08      | Variables and data types         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_08_variables_and_data_types.ipynb) |
 | 09      | User input with variables and data types         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_09_user_input_and_variables.ipynb) |
-
+| 10      | Basic operators         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sergio-a-hernandez/Python_in_5_minutes/blob/main/notebooks/session_10_basic_operators.ipynb) |
 ---
 
 ## 🧰 Requirements
